@@ -70,4 +70,4 @@ Req: 0xf1 Direccion Fisica: 0x1ff Acción: Segmention Fault
 
 ## Autor.
 
- * Nombre completo:
+ * Nombre completo: Juan Miguel Muñoz García
